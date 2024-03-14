@@ -1,0 +1,32 @@
+<html>
+<html>
+<title> WISH LIST </title>
+</head>
+<body> 
+<h1 align ="center"> MY WISHLIST<h1>
+<br><br><br>
+<table border="10">
+<tr>
+<th>wish list </th>
+<th>image</th> <th> brand name</th>
+</tr>
+<tr>
+<td><01><li>laptop</li></td>
+<td><li><image src="C:\users\u2\Destop\rj1.jpg?"width="100"height="100"height="100"></li></td>
+<td><ul><li>LENEVO</li>
+,li>Hp</li>
+<li>DELL</li></td></ul>
+</tr>
+</tr>
+<td><olstart="2"><li>SMARTPHONE</li></td>
+<td><li><imagesrc="Crj2.jpg"width="100"height="100"></li></td>
+<td><ul><li>SAMSUNG</li>
+   <li>OPPO</li>
+   <li>ONEPLUS</li>
+       <li>apple</li></li></td></ul> 
+ </tr>
+   </table>
+<br>
+</body>
+</html> 
+       
